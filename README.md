@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Aprendizado%20de%20Máquina-blue">
 </div>
 
-Prática de Ganho de Informação no contexto da disciplina Aprendizado de Máquina no CEFET-MG.
+Prática de Classificação de Imagens no contexto da disciplina Aprendizado de Máquina no CEFET-MG.
 ## Avaliação - Classificação Automática de Segmentos de Imagens
 
 Nesta prática você irá avaliar um dataset de 1.500 segmentos de imagens. Nesse projeto, cada instancia representa um segmento de 3x3 pixels de uma imagem de algum dos seguintes elementos:
